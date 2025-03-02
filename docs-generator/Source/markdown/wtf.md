@@ -4,8 +4,8 @@
 
 ### Current Versions
 
-| Component                                                             | Language | Version                                                         |
-| --------------------------------------------------------------------- | -------- | --------------------------------------------------------------- |
+| Component                                                              | Language | Version                                                          |
+| ---------------------------------------------------------------------- | -------- | ---------------------------------------------------------------- |
 | [`tauri.js](HTTPS://github.com/tauri-apps/tauri/tree/dev/cli/tauri.js) | node     | ![`](HTTPS://img.shields.io/npm/v/tauri.svg)                     |
 | [`tauri](HTTPS://github.com/tauri-apps/tauri/tree/dev/tauri)           | rust     | ![`](HTTPS://img.shields.io/crates/v/tauri.svg)                  |
 | [`builder](HTTPS://github.com/tauri-apps/tauri/tree/dev/cli/tauri-cli) | rust     | ![`](HTTPS://img.shields.io/crates/v/tauri-cli.svg)              |

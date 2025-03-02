@@ -15,20 +15,20 @@ whatever type of organizational model it chooses.
 
 The current working groups are:
 
--   WG Governance & Guidance
--   WG Tech
--   WG Education
--   WG Media
--   WG Security
--   WG Devops
+- WG Governance & Guidance
+- WG Tech
+- WG Education
+- WG Media
+- WG Security
+- WG Devops
 
 With the exception of the security working group, which is by invite only and
 convenes privately, all other working groups are public and open to any and all
 participants.
 
 Please visit
-[`this repository`](HTTPS://github.com/tauri-apps/governance-and-guidance) to get
-more information.
+[`this repository`](HTTPS://github.com/tauri-apps/governance-and-guidance) to
+get more information.
 
 ### Code of Conduct
 

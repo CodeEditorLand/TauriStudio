@@ -53,6 +53,7 @@ instructive for anyone interested in implementing Tauri in their own projects.
 ---
 
 License: These docs are licensed to you under
-[`CC-BY-NC-ND`](HTTPS://creativecommons.org/licenses/by-nc-nd/2.0/) by Tauri-Apps.
+[`CC-BY-NC-ND`](HTTPS://creativecommons.org/licenses/by-nc-nd/2.0/) by
+Tauri-Apps.
 
 Special thanks to all the contributors!

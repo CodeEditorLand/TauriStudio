@@ -5,8 +5,8 @@
 ## Get the Book
 
 ::: info Tauri: From Theory to Practice Architecting Next-Gen Native-Apps for
-all Platforms [v1:Rust Edition] Authors: [Daniel Thompson-Yvetot,
-Lucas Fernandes Gonçalves Nogueira] Publisher: TBD Release: late 2020 :::
+all Platforms [v1:Rust Edition] Authors: [Daniel Thompson-Yvetot, Lucas
+Fernandes Gonçalves Nogueira] Publisher: TBD Release: late 2020 :::
 
 ### tl;dr;
 
@@ -76,32 +76,31 @@ are released.
 
 By the end of this book you will understand:
 
--   The method and reasoning behind the design of Tauri
--   The options you have when building with Tauri
--   That having a moral compass is possible in software development
--   Why the Rust language makes the most sense as a binding and application
-    layer
--   Why Electron, Cordova, React Native, Capacitor and others are no longer the
-    best choice
--   Why a binary review is important
+- The method and reasoning behind the design of Tauri
+- The options you have when building with Tauri
+- That having a moral compass is possible in software development
+- Why the Rust language makes the most sense as a binding and application layer
+- Why Electron, Cordova, React Native, Capacitor and others are no longer the
+  best choice
+- Why a binary review is important
 
 And you will be able to:
 
--   Transform a simple website project into a Tauri Native-App
--   Make a variety of Tauri Application Types based on the main Patterns
--   Decompile and analyze your App for Security Issues
--   Publish your App to a variety of App Stores
--   Read and write Rust code
+- Transform a simple website project into a Tauri Native-App
+- Make a variety of Tauri Application Types based on the main Patterns
+- Decompile and analyze your App for Security Issues
+- Publish your App to a variety of App Stores
+- Read and write Rust code
 
 ### Stuff you'll get if you preorder
 
--   Access to a real demo App built for all platforms available at respective
-    stores (that includes CTF Flags).
--   Exclusive One-Pager cheat sheets made available for each section of the
-    book, including the Appendices.
--   Early access to videos / webcasts.
--   Discounted participation in the “Capture the Flag” event hosted at the
-    launch of the book.
+- Access to a real demo App built for all platforms available at respective
+  stores (that includes CTF Flags).
+- Exclusive One-Pager cheat sheets made available for each section of the book,
+  including the Appendices.
+- Early access to videos / webcasts.
+- Discounted participation in the “Capture the Flag” event hosted at the launch
+  of the book.
 
 ## Outline
 

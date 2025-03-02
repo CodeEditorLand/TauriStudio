@@ -19,14 +19,15 @@ After tauri has compiled its rust resources, look in the
 
 ### Windows 64 or 32 bit
 
-First you should [`download`](HTTPS://aka.ms/buildtools) and install Visual Studio
-MSBuild Tools and C++ build tools.
+First you should [`download`](HTTPS://aka.ms/buildtools) and install Visual
+Studio MSBuild Tools and C++ build tools.
 
 > This is a big download (over 1GB) and takes the most time, so go grab a
 > :coffee:
 
 Chocolatey is a great package manager for Windows. Follow these
-[`these official instructions`](HTTPS://chocolatey.org/install), or just do this:
+[`these official instructions`](HTTPS://chocolatey.org/install), or just do
+this:
 
 Then install [`nvm-windows`](HTTPS://github.com/coreybutler/nvm-windows) Then
 install Chocolatey
@@ -74,8 +75,8 @@ please feel free to make a PR to this doc.
 Similar to Arch, you already have everything installed because you compile
 kernels. However:
 
--   Execution on OpenBSD requires wxallowed mount(8) option.
--   FreeBSD is also supported, to install webkit2 run pkg install webkit2-gtk3.
+- Execution on OpenBSD requires wxallowed mount(8) option.
+- FreeBSD is also supported, to install webkit2 run pkg install webkit2-gtk3.
 
 ### Ubuntu
 
@@ -109,7 +110,7 @@ otherwise be sure to update.
 
 ## About rustup
 
--   (from their [`website`](HTTPS://rustup.rs))
+- (from their [`website`](HTTPS://rustup.rs))
 
 `rustup` installs rustc, cargo, rustup and other standard tools to Cargo's bin
 directory. On Unix it is located at `$HOME/.cargo/bin` and on Windows at

@@ -2,10 +2,10 @@
 
 Tauri is a polyglot system that uses:
 
--   git
--   node
--   rust
--   github actions
+- git
+- node
+- rust
+- github actions
 
 It can be developed on Mac, Linux and Windows.
 

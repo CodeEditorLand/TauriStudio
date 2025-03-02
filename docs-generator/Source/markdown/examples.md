@@ -2,6 +2,6 @@
 
 ```js
 return {
-  stuff: 'wow'
-}
+	stuff: "wow",
+};
 ```
