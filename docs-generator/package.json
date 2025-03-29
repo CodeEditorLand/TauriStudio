@@ -12,8 +12,8 @@
 	},
 	"dependencies": {
 		"@quasar/extras": "1.16.17",
-		"lru-cache": "11.0.2",
-		"mermaid": "11.5.0",
+		"lru-cache": "11.1.0",
+		"mermaid": "11.6.0",
 		"quasar": "2.18.1"
 	},
 	"description": "Tauri Documentation",
