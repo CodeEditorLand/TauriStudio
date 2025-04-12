@@ -36,7 +36,7 @@
 		"quasar": "2.17.0"
 	},
 	"devDependencies": {
-		"@playform/build": "0.2.1"
+		"@playform/build": "0.2.3"
 	},
 	"publishConfig": {
 		"access": "public"
