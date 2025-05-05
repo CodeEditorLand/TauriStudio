@@ -1,37 +1,18 @@
 {
-	"name": "@codeeditorland/quasar-app-extension-studio-i18n",
-	"version": "0.0.1",
-	"private": false,
-	"description": "common i18n locales and tools",
-	"keywords": [
-		"codeeditorland",
-		"land",
-		"playform"
-	],
-	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/TauriStudio#readme",
-	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/TauriStudio/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+HTTPS://github.com/CodeEditorLand/TauriStudio.git"
-	},
-	"license": "SEE LICENSE IN LICENSE",
-	"author": {
-		"name": "Source 🖋️ Open 👐🏻",
-		"email": "Source/Open@Editor.Land",
-		"url": "HTTPS://Editor.Land"
-	},
-	"type": "module",
-	"main": "src/index.js",
-	"scripts": {
-		"prepublishOnly": "Build 'Source/**/*.ts'"
-	},
-	"dependencies": {},
-	"devDependencies": {
-		"@playform/build": "0.2.3"
-	},
-	"publishConfig": {
-		"access": "public"
-	}
+  "name": "@tauri-apps/quasar-app-extension-studio-i18n",
+  "version": "0.0.1",
+  "description": "common i18n locales and tools",
+  "author": "Daniel Thompson-Yvetot <denjell@sfosc.org>",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "vue-i18n": "^8.0.0"
+  },
+  "devDependencies": {}
 }
