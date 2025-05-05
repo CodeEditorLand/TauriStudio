@@ -1,31 +1,11 @@
 {
-	"name": "docs-generator",
-	"version": "0.0.1",
-	"private": false,
-	"description": "Tauri Documentation",
-	"keywords": [
-		"codeeditorland",
-		"land",
-		"playform"
-	],
-	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/TauriStudio#readme",
-	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/TauriStudio/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+HTTPS://github.com/CodeEditorLand/TauriStudio.git"
-	},
-	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "Source 🖋️ Open 👐🏻",
 		"email": "Source/Open@Editor.Land",
+		"name": "Source 🖋️ Open 👐🏻",
 		"url": "HTTPS://Editor.Land"
 	},
-	"type": "module",
-	"scripts": {
-		"prepublishOnly": "Build 'Source/**/*.ts'",
-		"start": "node index.js"
+	"bugs": {
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/TauriStudio/issues"
 	},
 	"dependencies": {
 		"@quasar/babel-preset-app": "1.1.7",
@@ -35,13 +15,33 @@
 		"mermaid": "8.4.4",
 		"quasar": "1.7.2"
 	},
+	"description": "Tauri Documentation",
 	"devDependencies": {
 		"@playform/build": "0.2.3"
 	},
+	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/TauriStudio#readme",
+	"keywords": [
+		"codeeditorland",
+		"land",
+		"playform"
+	],
+	"license": "SEE LICENSE IN LICENSE",
+	"name": "docs-generator",
+	"private": false,
 	"publishConfig": {
 		"access": "public"
 	},
 	"quasar": {
 		"ssr": true
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+HTTPS://github.com/CodeEditorLand/TauriStudio.git"
+	},
+	"scripts": {
+		"prepublishOnly": "Build 'Source/**/*.ts'",
+		"start": "node index.js"
+	},
+	"type": "module",
+	"version": "0.0.1"
 }
