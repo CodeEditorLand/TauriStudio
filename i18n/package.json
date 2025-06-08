@@ -12,7 +12,7 @@
     "url": ""
   },
   "dependencies": {
-    "vue-i18n": "^8.0.0"
+    "vue-i18n": "^11.1.5"
   },
   "devDependencies": {}
 }
