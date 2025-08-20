@@ -24,7 +24,7 @@
   "dependencies": {
     "@quasar/extras": "1.17.0",
     "lru-cache": "11.1.0",
-    "mermaid": "11.6.0",
+    "mermaid": "11.10.0",
     "quasar": "2.18.1"
   },
   "devDependencies": {
