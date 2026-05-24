@@ -1,0 +1,28 @@
+version: 2
+enable-beta-ecosystems: true
+
+updates:
+    - package-ecosystem: "github-actions"
+      directory: "/"
+      schedule:
+          interval: "daily"
+
+    - package-ecosystem: "npm"
+      directory: "/docs-generator"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
+
+    - package-ecosystem: "npm"
+      directory: "/i18n"
+      schedule:
+          interval: "daily"
+      versioning-strategy: increase
+      ignore:
+          - dependency-name: "tailwindcss"
+            versions:
+                - "^4.0.0"
